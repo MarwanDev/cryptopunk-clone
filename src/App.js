@@ -1,6 +1,7 @@
 import "./App.css";
 // import CollectionCard from "./components/CollectionCard";
 import Header from "./components/Header";
+import Main from "./components/Main";
 // import { useState, useEffect } from "react";
 // import axios from "axios";
 import PunkList from "./components/PunkList";
@@ -18,9 +19,11 @@ function App() {
   //   getMyNfts().catch(console.error);
   // }, []);
 
+
   return (
     <div className="app">
       <Header />
+      <Main />
       {/* <CollectionCard
         id={0}
         name={"Bandana Punk"}
