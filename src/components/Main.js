@@ -32,7 +32,7 @@ function Main() {
           <div className="ownerDetails">
             <div className="ownerNameAndHandle">
               <div>0x2A0a11a1C9BD965f758A4e1d1fc9d6E811Eca09D</div>
-              <div>@Marwan</div>
+              <div className="ownerHandle">@Marwan</div>
             </div>
             <div className="ownerLink">
               <img src={instagramLogo} alt="" />

@@ -36,7 +36,7 @@
 }
 
 .title {
-  font-size: 30px;
+  font-size: 96px;
   font-weight: 800;
 }
 
@@ -71,7 +71,6 @@
 }
 
 .ownerDetails {
-  color: white;
   display: flex;
   align-items: center;
   flex: 1;
@@ -86,12 +85,12 @@
 }
 
 .ownerLink {
-    padding: 12px;
-    border-radius: 50px;
-    height: 50px;
-    width: 50px;
-    border: 1px solid #fff;
-    margin: 0 0 0 10px;
+  padding: 12px;
+  border-radius: 50px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid #fff;
+  margin: 0 0 0 10px;
 }
 
 .ownerLink > img {
